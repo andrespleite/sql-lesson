@@ -8,6 +8,9 @@ Este repositório contém uma série de exercícios de SQL projetados para ensin
 
 Para acompanhar seu progresso e ter sua própria cópia do repositório:
 
+<img width="650" height="75" alt="image" src="https://github.com/user-attachments/assets/bd701071-a47e-4c29-9cf8-5e3d0ef29e4b" />
+
+
 1. **Dê uma estrela** neste repositório (Star).
 2. **Faça um fork** do repositório para sua conta no GitHub. Isso criará uma cópia do repositório na sua conta.
 
